@@ -20,7 +20,9 @@
 10.	Connect the Django web framework to the NestJS backend API to retrieve responses from the chatbot model and display them to the user.
 
 11.	Test the chatbot thoroughly to ensure that it is generating appropriate responses and providing The right responses
-![start](assets/start.jpg)
-![Loading data](assets/load_etl.jpg)
-![Preprocesing](assets/preprocessing_data.jpg)
-![training the chatbot mode](assets/training.jpg)
+
+
+![start](/assets/start.jpg)
+![Loading data](/assets/load_etl.jpg)
+![Preprocessing](/assets/preprocessing_data.jpg)
+![Training the chatbot model](/assets/training.jpg)
